@@ -52,7 +52,7 @@ During the research phase we also investigated various [Google Maps APIs], [TfL]
 
 ####Next steps
 With further development time we would add the following features to **Bunch**:
-- Implement our own database of public transport journey times, to be able to calculate midpoints for multiple addresses without maxing out API rate limits.
+- Implement our own database of public transport journey times, to be able to quickly calculate fair public transport midpoints for multiple addresses without maxing out per-second API rate limits.
 - Add user accounts, with the ability to save friends' addresses, phone numbers and emails.
 - Incorporate Foursquare check-in data to better filter venue results for each user.
 - Extend coverage to other cities in the UK and beyond.
