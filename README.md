@@ -62,7 +62,7 @@ With further development time we would add the following features to **Bunch**:
 ####How to run tests
 
 ```shell
-git clone https://github.com/thejennywang/bunch.git
+git clone https://github.com/bayonnaise/bunch.git
 cd bunch
 rspec
 cucumber
