@@ -4,7 +4,7 @@
 
 **Bunch** takes the arguments out of organising a meetup with friends. Just tell it where you're coming from and **Bunch** will find the best bars, cafes and restaurants in a central location that's fair for the whole group.
 
-**STATUS:** [Try the latest build on heroku](http://bunch-us.herokuapp.com/)
+**STATUS:** [Try the current build on heroku](http://bunch-us.herokuapp.com/)
 
 ---
 
