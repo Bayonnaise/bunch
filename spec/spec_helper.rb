@@ -1,6 +1,5 @@
 require "codeclimate-test-reporter"
 CodeClimate::TestReporter.start
-ENV['CODECLIMATE_REPO_TOKEN'] = "484600b49d0fc7ef4d7ca092dd329172c0d1479f1a487a668e5ef14eaa0b7a2f "
 
 require 'simplecov'
 
