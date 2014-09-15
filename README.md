@@ -59,7 +59,7 @@ With further development time we would add the following features to **Bunch**:
 
 ---
 
-####How to run tests
+####How to run the tests
 
 ```shell
 git clone https://github.com/bayonnaise/bunch.git
